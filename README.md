@@ -4,8 +4,8 @@
 The Vrinda Store wants to create an annual sales report for 2025. This project analyzes customer behavior and sales trends to help the store understand their customers better and grow their sales in the coming year.
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png)
-*(Note: Make sure the filename inside the parentheses matches your uploaded image name exactly!)*
+![Dashboard Preview](Dashboard_Screenshot.png.png)
+
 
 ## 🔍 Key Insights
 - **Target Audience:** Women are more likely to buy compared to men (approx. 65%).
